@@ -7,6 +7,8 @@ So, this is a game of select POKEMON
 
 Used pure Javascript and RestAPI
 
+ https://nairalimac.github.io/pokedex/
+
 ------------------------------------------------------------------------------------------------------------------------
 
 - 💼 Linkedin: https://www.linkedin.com/in/nairalimac/
